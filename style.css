@@ -1,0 +1,12 @@
+button{
+    margin-top:300px;
+    margin-left:600px;
+    width:200px;
+    height:40px;
+    border-radius:8px;
+    border:none;
+    box-shadow: 0 0 5px 3px white;
+    font-size: 1.3em;
+    font-family:Arial, Helvetica, sans-serif;
+    letter-spacing: .01em;
+}
